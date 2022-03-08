@@ -1,4 +1,4 @@
-# ♕︎ ᑎᗴᗰᗴᔑᏆᔑ ♕︎
+# ♕︎🇴FFICIAL🇰ILLER♛
 ## ☯︎ Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ ☯︎
 
 [![♡︎Dᴇᴘʟᴏʏ♡︎](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GodNemesis/NemesisXSpam.git)
@@ -22,6 +22,6 @@
 
 -------------------------------------------------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - [Rᴇᴅɪʀᴇᴄᴛ](https://t.me/GodLuciferOp)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - [Rᴇᴅɪʀᴇᴄᴛ](https://t.me/OFFICIAL_KILLER_XD)
 
 -------------------------------------------------
